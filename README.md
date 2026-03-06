@@ -1,6 +1,6 @@
-# Affordable Store - E-Commerce Website
+# E-Commerce Website - Lab Tasks
 
-Welcome to the **Affordable Store**! This is a simple, responsive e-commerce front-end application focused on providing premium tech products at affordable prices.
+Welcome to the **Affordable Store**! This is a simple, responsive e-commerce front-end application focused on providing premium tech products at affordable prices. These webpages were created as part of my university lab tasks.
 
 ## 🚀 Features
 
@@ -32,7 +32,7 @@ E-Commerce/
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone <your-github-repo-url>
+   git clone https://github.com/NumanSultan1/E-Commerce.git
    ```
 2. **Navigate to the project directory**:
    ```bash
